@@ -1,48 +1,59 @@
-.container {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  background-image: url("../images/wall.png");
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("https://github.com/bryansilvacm/jsgame-detona-ralph/blob/entregaprojeto/src/images/fundo.png?raw=true");
 }
 
-.menu {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-
-  height: 90px;
-  width: 100%;
-  background-color: #000000;
-  color: #ffffff;
-  border-bottom: 5px solid #ffd700;
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width:100%;
+    background-color: rgb(0,0,0, 0.6);
+    color: #f85a5a;
+    border-bottom: 5px solid limegreen;
 }
 
-.panel {
-  margin-top: 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.square {
-  height: 150px;
-  width: 150px;
-  border: 1px solid #000000;
-  background-color: #1aeaa5;
-}
-
-.enemy {
-  background-image: url("../images/ralph.png");
-  background-size: cover;
-}
-
-.menu-lives {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.menu-lives{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .menu-time h2:nth-child(2),
 .menu-score h2:nth-child(2) {
-  margin-top: 1rem;
+    margin-top:1rem;
+}
+
+.panel{
+    margin-top: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square{
+    height: 150px;
+    border: 3px solid #036117;
+    width: 150px;
+    background-color: #d8ffd8;
+    margin: 0.2rem;
+    border-radius: 0.7rem;
+    box-shadow: 0 7px 24px rgba(0, 0, 0, 8);
+      transition: transform 0.15s ease, box-shadow 0.2s ease;
+}
+
+.enemy{
+    background-image: url("https://github.com/bryansilvacm/jsgame-detona-ralph/blob/entregaprojeto/src/images/ralph.png?raw=true");
+    background-size: cover;
+    animation: pop 0.1s ease-out;
+}
+
+
+@keyframes pop {
+  0% { transform: scale(0); }
+  100% { transform: scale(1); }
 }
