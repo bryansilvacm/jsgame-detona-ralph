@@ -18,7 +18,7 @@ Com grande satisfação digo que finalizei mais um desafio do bootcamp  da DIO R
 - **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
 
 ### Como Jogar
-acesse o link da página do jogo aqui [aqui](https://bryansilvacm.github.io/jsgame-detona-ralph/)
+acesse a página do jogo [aqui](https://bryansilvacm.github.io/jsgame-detona-ralph/)
 
 
 ----
