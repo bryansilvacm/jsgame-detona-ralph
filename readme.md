@@ -4,7 +4,8 @@
   <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
 </p>
 
-Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+Bem-vindo ao **JSGame Detona Ralph**!
+Com grande satisfação digo que finalizei mais um desafio do bootcamp  da DIO Ri Happy - Front-end do Zero #2
 
 ### Tecnologias Utilizadas
 
@@ -17,20 +18,12 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 - **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
 
 ### Como Jogar
+acesse o link da página do jogo aqui [aqui]()
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
 
-### Contribuição
+----
+Essa é uma branch apenas para entrega do projeto, 
 
-Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
+Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
 
-### Créditos
-
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
-
----
-
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. 
