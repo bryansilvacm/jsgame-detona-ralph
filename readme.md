@@ -1,8 +1,5 @@
 ## Awesome JSGame Detona Ralph
 
-<p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
-</p>
 
 Bem-vindo ao **JSGame Detona Ralph**!
 Com grande satisfação digo que finalizei mais um desafio do bootcamp  da DIO Ri Happy - Front-end do Zero #2
